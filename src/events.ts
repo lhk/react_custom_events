@@ -1,0 +1,1 @@
+export var customEvent = new Event('custom', { bubbles: true });
